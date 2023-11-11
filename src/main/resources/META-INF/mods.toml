@@ -33,9 +33,7 @@ displayName="Alrest" #mandatory
 # A text field displayed in the mod UI
 authors="Sokuhatiku" #optional
 # The description text for the mod (multi line!) (#mandatory)
-description='''
-This mod adds a new dimension to the game.
-''' #mandatory
+description="Safe Alrest and dangerous Morytha" #mandatory
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.alrest]] #optional
     # the modid of the dependency
